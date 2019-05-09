@@ -1,0 +1,25 @@
+{
+  "name": "rbac_privilege",
+  "version": "1.0.0",
+  "description": "a rbac privilege manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superbear24/rbac_privilege.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superbear24/rbac_privilege/issues"
+  },
+  "homepage": "https://github.com/superbear24/rbac_privilege#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0"
+  }
+}
